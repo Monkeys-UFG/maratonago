@@ -11,7 +11,7 @@ nav:
   - Organização: 'organization.md'
   - Contato: 'contact.md'
   - Fale Conosco: 'support.md'
-  - Portal do INF: 'portal.md'
+  - Portal do INF: https://inf.ufg.br/
 
 theme:
   language: pt-BR
