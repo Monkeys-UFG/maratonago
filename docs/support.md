@@ -1,8 +1,0 @@
----
-hide:
-  - navigation
----
-
-# Suporte
-
-Escrever

@@ -1,1 +1,1 @@
-# Site do Grupo Monkeys
+# Site do Maratona de Programação - Instituto de Informática UFG

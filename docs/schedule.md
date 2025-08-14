@@ -5,8 +5,10 @@ hide:
 
 # Programação
 
+---
+
 ## Datas importantes
-- 24/05/2025: Fase Zero (online e opcional) - Inscrições;
+- ~~24/05/2025: Fase Zero (online e opcional) - Inscrições;~~
 - 02/08/2025: Prazo para pagamento com desconto da taxa de inscrição (<a href = "https://maratona.sbc.org.br/inscricoes.html" target = "_blank">Para mais informações</a>);
 - 23/08/2025: Prazo para a inscrição dos times estarem completas;
 - 05/09/2025: Prazo para a inscrição de café com leite;
@@ -21,5 +23,7 @@ hide:
     - 19h30min: Divulgação dos Resultados.
 - Até 20/09/2025: definição dos classificados para a Final Brasileira;
 - 6 a 9 de novembro: Final Brasileira em São Paulo.
+
+---
 
 Para mais informações: <a href = "https://maratona.sbc.org.br/index.html" target = "_blank">Maratona SBC de Programação</a>

@@ -5,6 +5,8 @@ hide:
 
 # Nosso contato
 
+---
+
 Instituto de Informática (INF) - UFG
 
 Alameda Palmeiras, Quadra D, Câmpus Samambaia
@@ -14,6 +16,8 @@ CEP 74690-900 - Goiânia - GO
 Fone: (62) 3521-1181 / Fax: (62) 3521-1182
 
 E-mail: [maratona@inf.ufg.br](mailto:maratona@inf.ufg.br)
+
+---
 
 ## Mapa do local:
 

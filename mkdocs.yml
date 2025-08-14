@@ -1,23 +1,26 @@
-site_name: Maratona de Programação - Instituto de Informática - UFG
-site_url: https://mydomain.org/mysite
+site_name: Instituto de Informática - UFG/Maratona de Programação
+site_url: https://mydomain.org/maratonago
 
 nav:
   - Início: 'index.md'
   - Notícias: 
       - 'blog/index.md'
-  - Resultados: 'results.md'
+  - Resultados: 
+      - 2024: 'results/2024.md'
+      - 2023: 'results/2023.md'
+      - 2020: 'results/2020.md'
+      - 2019: 'results/2019.md'
   - Programação: 'schedule.md'
   - Inscrição: 'subscription.md'
   - Organização: 'organization.md'
   - Contato: 'contact.md'
-  - Fale Conosco: 'support.md'
   - Portal do INF: https://inf.ufg.br/
 
 theme:
   language: pt-BR
   name: material
-  logo: assets/transparent_logo.png
-  favicon: assets/favicon.ico
+  logo: assets/logos/marca-inf.png
+  favicon: assets/favicon/inf.ico
   icon:
     annotation: material/arrow-right-circle
     repo: fontawesome/brands/github
@@ -27,7 +30,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: blue
+      primary: black
       accent: deep purple
 
     # Light Mode
@@ -35,7 +38,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: white
       accent: deep blue
   features:
     - navigation.tabs
@@ -66,6 +69,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.tilde
   - tables
   - attr_list
   - md_in_html
@@ -95,7 +99,7 @@ plugins:
   - git-committers:
       repository: Monkeys-UFG/maratonago
       branch: main
-      enabled: true
+      enabled: false
   - blog:
       blog_dir: blog
       categories_allowed:
@@ -106,8 +110,6 @@ plugins:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-  - javascripts/slider.js
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/slider.css

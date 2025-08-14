@@ -5,8 +5,12 @@ hide:
 
 # Organização
 
+---
+
 ## Coordenação
-- Prof. Humberto Longo
+- Prof. Humberto José Longo
+
+---
 
 ## Comissão Organizadora
 
