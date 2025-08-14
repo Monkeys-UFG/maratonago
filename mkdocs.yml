@@ -1,4 +1,4 @@
-site_name: Maratona INF
+site_name: Maratona de Programação - Instituto de Informática - UFG
 site_url: https://mydomain.org/mysite
 
 nav:
@@ -27,7 +27,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: red
+      primary: blue
       accent: deep purple
 
     # Light Mode
@@ -35,8 +35,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: red
-      accent: deep purple
+      primary: blue
+      accent: deep blue
   features:
     - navigation.tabs
     - navigation.instant
