@@ -26,3 +26,51 @@ img.no-margin {
 .no-top-margin {
   margin-top: 0 !important;
 }
+
+/* Estilos para patrocinadores e apoios na sidebar direita */
+.md-nav--secondary .md-nav__title {
+  font-weight: 600;
+}
+
+/* Hover effects para os logos */
+.md-nav--secondary a img {
+  transition: all 0.3s ease;
+  opacity: 0.9;
+}
+
+.md-nav--secondary a:hover img {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+/* Melhor separação visual entre seções */
+.md-nav--secondary + .md-nav--secondary {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  padding-top: 1rem;
+}
+
+/* Responsividade */
+@media (max-width: 1219px) {
+  .md-nav--secondary {
+    display: none;
+  }
+}
+
+/* Sistema de logos adaptativos por tema */
+/* Por padrão, mostrar logo para tema claro */
+.theme-light-logo {
+  display: inline-block;
+}
+
+.theme-dark-logo {
+  display: none;
+}
+
+/* No tema escuro (slate), trocar a exibição */
+body[data-md-color-scheme="slate"] .theme-light-logo {
+  display: none;
+}
+
+body[data-md-color-scheme="slate"] .theme-dark-logo {
+  display: inline-block;
+}

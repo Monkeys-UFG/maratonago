@@ -19,6 +19,7 @@ nav:
 theme:
   language: pt-BR
   name: material
+  custom_dir: overrides
   logo: assets/logos/marca-inf.png
   favicon: assets/favicon/inf.ico
   icon:
