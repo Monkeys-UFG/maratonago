@@ -100,7 +100,7 @@ plugins:
   - git-committers:
       repository: Monkeys-UFG/maratonago
       branch: main
-      enabled: false
+      enabled: true
   - blog:
       blog_dir: blog
       categories_allowed:
