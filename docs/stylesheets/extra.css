@@ -74,3 +74,38 @@ body[data-md-color-scheme="slate"] .theme-light-logo {
 body[data-md-color-scheme="slate"] .theme-dark-logo {
   display: inline-block;
 }
+
+.md-logo img {
+    width: 180px !important;  /* Ajuste este valor conforme necessário */
+    height: auto !important;
+    align-items: center;
+}
+
+[data-md-color-scheme="slate"] .md-logo img {
+    filter: invert(1) brightness(1.8);
+}
+
+/* ...existing code... */
+
+/* Ajustes para dispositivos móveis */
+@media screen and (max-width: 76.1875em) {
+    .md-header__title {
+        margin-left: .8rem;
+    }
+    
+    .md-logo {
+        padding: 0;
+    }
+    
+    .md-logo img {
+        width: 120px !important;  /* Tamanho menor para mobile */
+    }
+}
+
+/* Para telas muito pequenas, reduzir ainda mais */
+@media screen and (max-width: 480px) {
+    .md-logo img {
+        width: 100px !important;
+    }
+}
+

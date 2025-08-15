@@ -20,8 +20,8 @@ theme:
   language: pt-BR
   name: material
   custom_dir: overrides
-  logo: assets/logos/ufg_logo.png
   favicon: assets/favicon/favicon.ico
+  logo: assets/logos/INF_UFG-Preto.png
   icon:
     annotation: material/arrow-right-circle
     repo: fontawesome/brands/github
@@ -29,6 +29,7 @@ theme:
     # Dark Mode
     - scheme: slate
       toggle:
+        logo: assets/logos/INF_UFG-Branco.png
         icon: material/weather-sunny
         name: Dark mode
       primary: black
@@ -37,6 +38,7 @@ theme:
     # Light Mode
     - scheme: default
       toggle:
+        logo: assets/logos/INF_UFG-Preto.png
         icon: material/weather-night
         name: Light mode
       primary: white
@@ -78,8 +80,8 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.arithmatex:
       generic: true
-repo_url: https://github.com/Monkeys-UFG/maratonago
-repo_name: Monkeys-UFG/maratonago
+# repo_url: https://github.com/Monkeys-UFG/maratonago
+# repo_name: Monkeys-UFG/maratonago
 
 extra:
   social:
