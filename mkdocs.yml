@@ -87,8 +87,8 @@ extra:
       link: https://github.com/Monkeys-UFG/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/ufg_monkeys
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/ufg_monkeys
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/fVy39w4nNv
 
 plugins:
   - search
