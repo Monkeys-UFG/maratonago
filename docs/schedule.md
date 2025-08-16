@@ -13,14 +13,17 @@ hide:
 - 23/08/2025: Prazo para a inscrição dos times estarem completas;
 - 05/09/2025: Prazo para a inscrição de café com leite;
 - 13/09/2025: Primeira Fase da Maratona de Programação;
-    - 09h00min: Recepção das equipes do Instituto de Informática - UFG ([Localização e contato](./contact.md){: target = "_blank"});
-    - 09h30min: Entrega do material aos Times;
-    - 10h00min: Sessão de Aquecimento;
-    - 11h00min: Times liberados para almoço;
-    - 13h30min: Retorno dos Times;
-    - 14h00min: Início da Competição;
-    - 19h00min: Término da Competição;
-    - 19h30min: Divulgação dos Resultados.
+    - 08h30 - 09h00: Recepção das equipes no auditório da Faculdade de Educação Física (FEFD) - UFG (prédio ao lado do INF/UFG na Av. Pau Brasil, campus Samambaia, Goiânia-GO).
+    - 09h00 - 10h30: Abertura, entrega de material aos times e mensagens dos patrocinadores (auditório da FEFD).
+    - 10h30 - 11h30: Sessão de aquecimento e teste geral do ambiente computacional (laboratórios do INF).
+    - 11h30 - 13h30: Times liberados para almoço - será fornecido pela organização do evento (Restaurante universitário da UFG).
+    - 13h30 - 13h50: Retorno dos times ao INF/UFG.
+    - 14h00: Início da competição. (laboratórios do INF).
+    - 19h00: Término da competição.
+    - 19h00 - 19h30: Cooffe-break para os participantes. (área anexa ao auditório da FEFD).
+    - 19h30 - 20h30: Divulgação dos resultados e mensagens finais da organização e patrocinadores. (auditório da FEFD).
+    - 20h30: Times liberados!!!
+
 - Até 20/09/2025: definição dos classificados para a Final Brasileira;
 - 6 a 9 de novembro: Final Brasileira em São Paulo.
 
