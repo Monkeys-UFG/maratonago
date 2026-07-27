@@ -5,7 +5,9 @@ nav:
   - Início: 'index.md'
   - Notícias: 
       - 'blog/index.md'
+  - Patrocinadores: 'sponsors.md'
   - Resultados: 
+      - 2025: 'results/2025.md'
       - 2024: 'results/2024.md'
       - 2023: 'results/2023.md'
       - 2020: 'results/2020.md'

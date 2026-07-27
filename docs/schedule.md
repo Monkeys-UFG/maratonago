@@ -8,24 +8,15 @@ hide:
 ---
 
 ## Datas importantes
-- ~~24/05/2025: Fase Zero (online e opcional) - Inscrições;~~
-- 02/08/2025: Prazo para pagamento com desconto da taxa de inscrição (<a href = "https://maratona.sbc.org.br/inscricoes.html" target = "_blank">Para mais informações</a>);
-- 23/08/2025: Prazo para a inscrição dos times estarem completas;
-- 05/09/2025: Prazo para a inscrição de café com leite;
-- 13/09/2025: Primeira Fase da Maratona de Programação;
-    - 08h30 - 09h00: Recepção das equipes no auditório da Faculdade de Educação Física (FEFD) - UFG (prédio ao lado do INF/UFG na Av. Pau Brasil, campus Samambaia, Goiânia-GO).
-    - 09h00 - 10h30: Abertura, entrega de material aos times e mensagens dos patrocinadores (auditório da FEFD).
-    - 10h30 - 11h30: Sessão de aquecimento e teste geral do ambiente computacional (laboratórios do INF).
-    - 11h30 - 13h30: Times liberados para almoço - será fornecido pela organização do evento (Restaurante universitário da UFG).
-    - 13h30 - 13h50: Retorno dos times ao INF/UFG.
-    - 14h00: Início da competição. (laboratórios do INF).
-    - 19h00: Término da competição.
-    - 19h00 - 19h30: Cooffe-break para os participantes. (área anexa ao auditório da FEFD).
-    - 19h30 - 20h30: Divulgação dos resultados e mensagens finais da organização e patrocinadores. (auditório da FEFD).
-    - 20h30: Times liberados!!!
+- ~~Até 11/05/2026: inscrição para sediar a primeira fase;~~
+- Início de junho: abertura das inscrições;
+- ~~Até 20/07/2026: inscrição com desconto;~~
+- Até 10/08/2026: inscrição de times deve estar completa;
+- Até 22/08/2026: inscrição de café com leite;
+- **29/08/2026: Primeira Fase;**
+- Até 09/09/2026: definição dos classificados para a Final Brasileira;
+- **5 a 8 de novembro: Final Brasileira em Uberlândia** (<a href = "https://maratona.sbc.org.br/cartaz26.jpeg" target = "_blank">cartaz</a>)(<a href = "https://maratonasbc.facom.ufu.br/" target = "_blank">site da final</a>).
 
-- Até 20/09/2025: definição dos classificados para a Final Brasileira;
-- 6 a 9 de novembro: Final Brasileira em São Paulo.
 
 ---
 
